@@ -14,7 +14,7 @@ Siin on ruumi nii uutele uuringutele kui ka vanadele üllatavatele katsetele, Ju
 
 ## Lood
 
-Esimest lugu ei ole veel lisatud. Uue loo avaldamisel lisa siia kuupäev, pealkiri ja suhteline link.
+- 2026-09-13 — [Kas unenäole saab anda ülesande?](stories/2026-09-13-kas-unenaole-saab-anda-ulesande.md): suhtlus magajaga, mõistatuste helivihjed ja loovuse uurimine uinumisel; mida tulemused näitavad ja mida veel mitte.
 
 ## Töökorraldus
 
