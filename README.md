@@ -23,3 +23,15 @@ Ajastatud ülevaadete käivitaja on ChatGPT, mitte GitHub Actions. Repo säilita
 Enne uut lugu loetakse kehtivat vaikeharu ja avatud sisutäienduste PR-e, et mitte korrata juba käsitletut. Uued lood, allikaregistri täiendused ja indeksi muudatused esitatakse koos ülevaatamiseks PR-ina. Automaatne ühendamine ei ole praegu lubatud.
 
 Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke terviseandmeid ega ligipääsutunnuseid.
+
+## Mitmeteemalised ülevaated
+
+- [2026-09-13 — vari, WOOP, meditatsioon, taipamine ja vestlusküsimused](intakes/2026-09-13.md). Viis valitud leidu kuuest sisuliselt hinnatud suunast; praktilised rakendused ja kõrvale jäänud kandidaadid.
+
+## Teemakirjed
+
+- [Jungi vari ja tunnistamata võimed](topics/sugavuspsuhholoogia/jungi-vari-ja-tunnistamata-voimed.md).
+- [WOOP: soov, takistus ja plaan](topics/eesmargid/woop-soov-takistus-plaan.md).
+- [Märkamine ja aktsepteerimine meditatsioonis](topics/meditatsioon/markamine-ja-aktsepteerimine.md).
+- [N2-uni ja taipamine](topics/uni/n2-uni-ja-taipamine.md).
+- [Küsimused ja jätkuküsimused tutvumisvestluses](topics/suhtlemine/kusimused-ja-jatkukusimused.md).
