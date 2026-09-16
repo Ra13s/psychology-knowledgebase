@@ -27,6 +27,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 ## Mitmeteemalised ülevaated
 
 - [2026-09-13 — vari, WOOP, meditatsioon, taipamine ja vestlusküsimused](intakes/2026-09-13.md). Viis valitud leidu kuuest sisuliselt hinnatud suunast; praktilised rakendused ja kõrvale jäänud kandidaadid.
+- [2026-09-16 — teadmislüngad, mälupalee, kõndiv loovus, distantseeritud sisekõne ja kehatunnetus](intakes/2026-09-16.md). Viis eri valdkonna leidu ning kaks teadlikult edasi lükatud „mindhack'i” kandidaati.
 
 ## Teemakirjed
 
@@ -35,3 +36,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Märkamine ja aktsepteerimine meditatsioonis](topics/meditatsioon/markamine-ja-aktsepteerimine.md).
 - [N2-uni ja taipamine](topics/uni/n2-uni-ja-taipamine.md).
 - [Küsimused ja jätkuküsimused tutvumisvestluses](topics/suhtlemine/kusimused-ja-jatkukusimused.md).
+- [Seletusliku sügavuse illusioon](topics/metakognitsioon/seletusliku-sugavuse-illusioon.md).
+- [Mälupalee ehk method of loci](topics/malu/malupalee-meetod.md).
+- [Kõndimine ja ideede genereerimine](topics/loovus/kondimine-ja-ideede-genereerimine.md).
+- [Distantseeritud sisekõne](topics/emotsioonid/distantseeritud-sisekone.md).
+- [Kummikäte illusioon ja kehatunnetus](topics/taju-ja-kehatunnetus/kummikae-illusioon.md).
