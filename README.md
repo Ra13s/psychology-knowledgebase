@@ -28,6 +28,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 
 - [2026-09-13 — vari, WOOP, meditatsioon, taipamine ja vestlusküsimused](intakes/2026-09-13.md). Viis valitud leidu kuuest sisuliselt hinnatud suunast; praktilised rakendused ja kõrvale jäänud kandidaadid.
 - [2026-09-16 — teadmislüngad, mälupalee, kõndiv loovus, distantseeritud sisekõne ja kehatunnetus](intakes/2026-09-16.md). Viis eri valdkonna leidu ning kaks teadlikult edasi lükatud „mindhack'i” kandidaati.
+- [2026-09-23 — AI proovipartner, kognitiivne offloading, kehastatud kujutlus, füsioloogiline sünkroonsus ja lucid-dream vihjed](intakes/2026-09-23.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 
 ## Teemakirjed
 
@@ -41,3 +42,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Kõndimine ja ideede genereerimine](topics/loovus/kondimine-ja-ideede-genereerimine.md).
 - [Distantseeritud sisekõne](topics/emotsioonid/distantseeritud-sisekone.md).
 - [Kummikäte illusioon ja kehatunnetus](topics/taju-ja-kehatunnetus/kummikae-illusioon.md).
+- [AI-proov keeruliseks vestluseks](topics/suhtlemine/ai-proov-keeruliseks-vestluseks.md).
+- [Kognitiivne offloading ja sisemine mälu](topics/malu/kognitiivne-offloading-ja-sisemine-malu.md).
+- [Interotseptsioon ja vaimne kujutlus](topics/kujutlus/interotseptsioon-ja-vaimne-kujutlus.md).
+- [Visuaalne kontakt ja füsioloogiline sünkroonsus](topics/sotsiaalne-kognitsioon/visuaalne-kontakt-ja-fusioloogiline-sunkroonsus.md).
+- [Helivihjed ja lucid-dream induktsioon](topics/uni/helivihjed-ja-lucid-dream-induktsioon.md).
