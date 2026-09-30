@@ -29,6 +29,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-09-13 — vari, WOOP, meditatsioon, taipamine ja vestlusküsimused](intakes/2026-09-13.md). Viis valitud leidu kuuest sisuliselt hinnatud suunast; praktilised rakendused ja kõrvale jäänud kandidaadid.
 - [2026-09-16 — teadmislüngad, mälupalee, kõndiv loovus, distantseeritud sisekõne ja kehatunnetus](intakes/2026-09-16.md). Viis eri valdkonna leidu ning kaks teadlikult edasi lükatud „mindhack'i” kandidaati.
 - [2026-09-23 — AI proovipartner, kognitiivne offloading, kehastatud kujutlus, füsioloogiline sünkroonsus ja lucid-dream vihjed](intakes/2026-09-23.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
+- [2026-09-30 — kompressiivne õppimine, automaatne väärtusõpe, kollektiivne intelligentsus, metakognitsioon ja VR-lucid treening](intakes/2026-09-30.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 
 ## Teemakirjed
 
@@ -47,3 +48,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Interotseptsioon ja vaimne kujutlus](topics/kujutlus/interotseptsioon-ja-vaimne-kujutlus.md).
 - [Visuaalne kontakt ja füsioloogiline sünkroonsus](topics/sotsiaalne-kognitsioon/visuaalne-kontakt-ja-fusioloogiline-sunkroonsus.md).
 - [Helivihjed ja lucid-dream induktsioon](topics/uni/helivihjed-ja-lucid-dream-induktsioon.md).
+- [Kompressiivne õppimine: hubid enne detaile](topics/oppimine/kompressiivne-oppimine-ja-hubid.md).
+- [Automaatne väärtuse omistamine ebaolulistele tunnustele](topics/otsustamine/automaatne-vaartuse-omistamine.md).
+- [Payoff-info ja kollektiivne intelligentsus](topics/sotsiaalne-oppimine/payoff-info-ja-kollektiivne-intelligentsus.md).
+- [Domeenispetsiifiline metakognitsioon](topics/metakognitsioon/domeenispetsiifiline-metakognitsioon.md).
+- [VR ja lucid-dream metakognitsioon](topics/uni/vr-ja-lucid-dream-metakognitsioon.md).
