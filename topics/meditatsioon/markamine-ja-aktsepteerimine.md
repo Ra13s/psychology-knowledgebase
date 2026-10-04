@@ -20,6 +20,10 @@ Illustratiivne lühikatse: istu soovi korral umbes kaks minutit tavapäraselt hi
 
 2019. aasta PNAS-artikkel käsitleb sama katse igapäevast üksildust ja sotsiaalset kontakti. Selle esimene leht ning asjakohased tulemuse- ja mõõtmiskirjeldused kontrolliti: tegemist ei ole sõltumatu kordusuuringuga ning kontaktimõõdikud põhinesid enesearuannetel. [2] Seda ei loeta siin teiseks kinnitavaks katseks.
 
+## 2026 täiendus: nimetamine pole sama mis märkamine
+
+Ariely jt 30.03.2026 [kaks katset](../emotsioonid/emotsiooni-nimetamine-ja-umbermotestamine.md) näitasid, et emotsiooni sõnaline nimetamine enne ümbermõtestamist vähendas selle vahetut kasu. Aktsepteerimist ei testitud. See piirab siinse illustratsiooni tõlgendust: nimetamine ei ole universaalselt vajalik rahunemissamm ega sama protsess mis avatud märkamine. [04.10.2026 intake](../../intakes/2026-10-04.md).
+
 ## Allikad
 
 1. Lindsay, E. K., Young, S., Smyth, J. M., Brown, K. W. ja Creswell, J. D. *Acceptance lowers stress reactivity: Dismantling mindfulness training in a randomized controlled trial*. Psychoneuroendocrinology 87:63–73. [DOI](https://doi.org/10.1016/j.psyneuen.2017.09.015), [PubMed](https://pubmed.ncbi.nlm.nih.gov/29040891/), [autori täistekst](https://www.researchgate.net/publication/320365584_Acceptance_lowers_stress_reactivity_Dismantling_mindfulness_training_in_a_randomized_controlled_trial).
