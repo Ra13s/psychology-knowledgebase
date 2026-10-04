@@ -1,14 +1,15 @@
 # Psühholoogia avastusretk
 
-Eestikeelsed lood põnevatest psühholoogiakatsetest, ideedest ja meetoditest. Üks tugev põhiteema korraga, umbes 3–5 minutit lugemist.
+Eestikeelsed mitmeteemalised ülevaated põnevatest psühholoogiakatsetest, ideedest ja meetoditest. Iga jooks ühendab mitu valitud leidu, sisulise sünteesi ja ajas täienevad teemakirjed.
 
-Siin on ruumi nii uutele uuringutele kui ka vanadele üllatavatele katsetele, Jungile ja teistele mõttesuundadele, meditatsioonile, õppimisele, mälule, kujutlusele, loovusele ning seni avastamata teemadele. Need on lähtepunktid, mitte otsingu piirid. Iga lugu ei pea lõppema eneseabiharjutusega.
+Uued leiud põhinevad ainult 1. jaanuaril 2026 või hiljem avaldatud materjalil. Vanemad allikad sobivad taustaks ja võrdluseks. Teemad ulatuvad Jungist ja meditatsioonist õppimise, mälu, kujutluse, loovuse ning seni avastamata suundadeni; need on lähtepunktid, mitte otsingu piirid. Iga leid ei pea lõppema eneseabiharjutusega. Varasemad ülevaated säilivad ajaloo osana.
 
 ## Sisu
 
-- [stories/](stories/) — terviklikud lood koos allikate ja tõenduse selgitusega; teadmistebaasi põhisisu.
-- [topics/](topics/) — aja jooksul tekkivad teemadevahelised seosed ja lugemisrajad.
-- [sources/processed.jsonl](sources/processed.jsonl) — läbitöötatud allikate register korduste vältimiseks.
+- [intakes/](intakes/) — iga jooksu mitmeteemaline süntees, valitud leiud ja avaldamise seis.
+- [topics/](topics/) — ajas täienevad teemakirjed, seosed ja lugemisrajad.
+- [stories/](stories/) — terviklikud üksikteema lood koos allikate ja tõenduse selgitusega.
+- [sources/processed.jsonl](sources/processed.jsonl) ja [sources/processed/](sources/processed/) — kogu läbitöötatud allikate register korduste vältimiseks.
 - [templates/story.md](templates/story.md) — loo soovituslik kuju.
 - [AGENTS.md](AGENTS.md) — uurimise, kirjutamise ja avaldamise juhised.
 
@@ -20,7 +21,9 @@ Siin on ruumi nii uutele uuringutele kui ka vanadele üllatavatele katsetele, Ju
 
 Ajastatud ülevaadete käivitaja on ChatGPT, mitte GitHub Actions. Repo säilitab lood, allikad ja teemade ajaloo; lugeja saab ülevaate ka ChatGPT-s.
 
-Enne uut lugu loetakse kehtivat vaikeharu ja avatud sisutäienduste PR-e, et mitte korrata juba käsitletut. Uued lood, allikaregistri täiendused ja indeksi muudatused esitatakse koos ülevaatamiseks PR-ina. Automaatne ühendamine ei ole praegu lubatud.
+Enne uut jooksu loetakse värsket `main`-haru, varasemaid intake'e ja teemakirjeid, kogu allikaregistrit ning pooleliolevaid PR-e. Kasutaja 04.10.2026 juhise järgi loob agent sisutäienduse haru ja PR-i, kontrollib lõplikku diffi ning GitHubi nõudeid, merge'ib valmis PR-i ise ja kontrollib sisu `main`ist tagasi. Inimese käsitsi merge'i ootama ei jääda.
+
+Avaldamise käik: `fresh main → branch → PR → diff/checks → merge → verify main → delete merged branch`. Repo automaatne harukustutus on sisse lülitatud. Nõutud kontrolle, review'sid ja muid GitHubi kaitseid järgitakse; konkreetne takistus raporteeritakse. Ajastatud töö avaldamisjuhis kasutab sama käiku.
 
 Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke terviseandmeid ega ligipääsutunnuseid.
 
@@ -29,6 +32,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-09-13 — vari, WOOP, meditatsioon, taipamine ja vestlusküsimused](intakes/2026-09-13.md). Viis valitud leidu kuuest sisuliselt hinnatud suunast; praktilised rakendused ja kõrvale jäänud kandidaadid.
 - [2026-09-16 — teadmislüngad, mälupalee, kõndiv loovus, distantseeritud sisekõne ja kehatunnetus](intakes/2026-09-16.md). Viis eri valdkonna leidu ning kaks teadlikult edasi lükatud „mindhack'i” kandidaati.
 - [2026-09-23 — AI proovipartner, kognitiivne offloading, kehastatud kujutlus, füsioloogiline sünkroonsus ja lucid-dream vihjed](intakes/2026-09-23.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
+- [2026-09-30 — kompressiivne õppimine, automaatne väärtusõpe, kollektiivne intelligentsus, metakognitsioon ja VR-lucid treening](intakes/2026-09-30.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 
 ## Teemakirjed
 
@@ -47,3 +51,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Interotseptsioon ja vaimne kujutlus](topics/kujutlus/interotseptsioon-ja-vaimne-kujutlus.md).
 - [Visuaalne kontakt ja füsioloogiline sünkroonsus](topics/sotsiaalne-kognitsioon/visuaalne-kontakt-ja-fusioloogiline-sunkroonsus.md).
 - [Helivihjed ja lucid-dream induktsioon](topics/uni/helivihjed-ja-lucid-dream-induktsioon.md).
+- [Kompressiivne õppimine: hubid enne detaile](topics/oppimine/kompressiivne-oppimine-ja-hubid.md).
+- [Automaatne väärtuse omistamine ebaolulistele tunnustele](topics/otsustamine/automaatne-vaartuse-omistamine.md).
+- [Payoff-info ja kollektiivne intelligentsus](topics/sotsiaalne-oppimine/payoff-info-ja-kollektiivne-intelligentsus.md).
+- [Domeenispetsiifiline metakognitsioon](topics/metakognitsioon/domeenispetsiifiline-metakognitsioon.md).
+- [VR ja lucid-dream metakognitsioon](topics/uni/vr-ja-lucid-dream-metakognitsioon.md).
