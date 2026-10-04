@@ -34,6 +34,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-09-23 — AI proovipartner, kognitiivne offloading, kehastatud kujutlus, füsioloogiline sünkroonsus ja lucid-dream vihjed](intakes/2026-09-23.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 - [2026-09-30 — kompressiivne õppimine, automaatne väärtusõpe, kollektiivne intelligentsus, metakognitsioon ja VR-lucid treening](intakes/2026-09-30.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 
+- [2026-10-04 — emotsiooni nimetamine, huumor enne õppimist ja arutelu audit](intakes/2026-10-04.md). Kolm 2026+ panust seitsmest hinnatud suunast; eristatud 2025 eeltrükkide taust.
+
 ## Teemakirjed
 
 - [Jungi vari ja tunnistamata võimed](topics/sugavuspsuhholoogia/jungi-vari-ja-tunnistamata-voimed.md).
@@ -56,3 +58,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Payoff-info ja kollektiivne intelligentsus](topics/sotsiaalne-oppimine/payoff-info-ja-kollektiivne-intelligentsus.md).
 - [Domeenispetsiifiline metakognitsioon](topics/metakognitsioon/domeenispetsiifiline-metakognitsioon.md).
 - [VR ja lucid-dream metakognitsioon](topics/uni/vr-ja-lucid-dream-metakognitsioon.md).
+
+- [Emotsiooni nimetamine ja ümbermõtestamine](topics/emotsioonid/emotsiooni-nimetamine-ja-umbermotestamine.md).
+- [Väärarusaamade parandamine ja huumor enne õppimist](topics/oppimine/vaararusaamade-parandamine-ja-huumor.md).
+- [Kollektiivne Fermi-hindamine ja arutelu audit](topics/sotsiaalne-oppimine/kollektiivne-fermi-ja-arutelu-audit.md).
