@@ -1,14 +1,15 @@
 # Psühholoogia avastusretk
 
-Eestikeelsed lood põnevatest psühholoogiakatsetest, ideedest ja meetoditest. Üks tugev põhiteema korraga, umbes 3–5 minutit lugemist.
+Eestikeelsed mitmeteemalised ülevaated põnevatest psühholoogiakatsetest, ideedest ja meetoditest. Iga jooks ühendab mitu valitud leidu, sisulise sünteesi ja ajas täienevad teemakirjed.
 
-Siin on ruumi nii uutele uuringutele kui ka vanadele üllatavatele katsetele, Jungile ja teistele mõttesuundadele, meditatsioonile, õppimisele, mälule, kujutlusele, loovusele ning seni avastamata teemadele. Need on lähtepunktid, mitte otsingu piirid. Iga lugu ei pea lõppema eneseabiharjutusega.
+Uued leiud põhinevad ainult 1. jaanuaril 2026 või hiljem avaldatud materjalil. Vanemad allikad sobivad taustaks ja võrdluseks. Teemad ulatuvad Jungist ja meditatsioonist õppimise, mälu, kujutluse, loovuse ning seni avastamata suundadeni; need on lähtepunktid, mitte otsingu piirid. Iga leid ei pea lõppema eneseabiharjutusega. Varasemad ülevaated säilivad ajaloo osana.
 
 ## Sisu
 
-- [stories/](stories/) — terviklikud lood koos allikate ja tõenduse selgitusega; teadmistebaasi põhisisu.
-- [topics/](topics/) — aja jooksul tekkivad teemadevahelised seosed ja lugemisrajad.
-- [sources/processed.jsonl](sources/processed.jsonl) — läbitöötatud allikate register korduste vältimiseks.
+- [intakes/](intakes/) — iga jooksu mitmeteemaline süntees, valitud leiud ja avaldamise seis.
+- [topics/](topics/) — ajas täienevad teemakirjed, seosed ja lugemisrajad.
+- [stories/](stories/) — terviklikud üksikteema lood koos allikate ja tõenduse selgitusega.
+- [sources/processed.jsonl](sources/processed.jsonl) ja [sources/processed/](sources/processed/) — kogu läbitöötatud allikate register korduste vältimiseks.
 - [templates/story.md](templates/story.md) — loo soovituslik kuju.
 - [AGENTS.md](AGENTS.md) — uurimise, kirjutamise ja avaldamise juhised.
 
@@ -20,7 +21,9 @@ Siin on ruumi nii uutele uuringutele kui ka vanadele üllatavatele katsetele, Ju
 
 Ajastatud ülevaadete käivitaja on ChatGPT, mitte GitHub Actions. Repo säilitab lood, allikad ja teemade ajaloo; lugeja saab ülevaate ka ChatGPT-s.
 
-Enne uut lugu loetakse kehtivat vaikeharu ja avatud sisutäienduste PR-e, et mitte korrata juba käsitletut. Uued lood, allikaregistri täiendused ja indeksi muudatused esitatakse koos ülevaatamiseks PR-ina. Automaatne ühendamine ei ole praegu lubatud.
+Enne uut jooksu loetakse värsket `main`-haru, varasemaid intake'e ja teemakirjeid, kogu allikaregistrit ning pooleliolevaid PR-e. Kasutaja 04.10.2026 juhise järgi loob agent sisutäienduse haru ja PR-i, kontrollib lõplikku diffi ning GitHubi nõudeid, merge'ib valmis PR-i ise ja kontrollib sisu `main`ist tagasi. Inimese käsitsi merge'i ootama ei jääda.
+
+Avaldamise käik: `fresh main → branch → PR → diff/checks → merge → verify main → delete merged branch`. Repo automaatne harukustutus on sisse lülitatud. Nõutud kontrolle, review'sid ja muid GitHubi kaitseid järgitakse; konkreetne takistus raporteeritakse. Ajastatud töö avaldamisjuhis kasutab sama käiku.
 
 Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke terviseandmeid ega ligipääsutunnuseid.
 

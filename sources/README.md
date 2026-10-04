@@ -1,6 +1,6 @@
 # Allikaregister
 
-`processed.jsonl` sisaldab üht JSON-objekti rea kohta. Algfail on tühi, sest ühtegi allikat pole selle repo jaoks veel läbi töötatud.
+`processed.jsonl` ja kuupäevapõhised `processed/*.jsonl` failid sisaldavad üht JSON-objekti rea kohta. Need moodustavad koos kogu allikaregistri: loe deduplikatsiooniks mõlemat. Kuupäevapõhised logid ei asenda ega kustuta varasemaid kirjeid.
 
 Iga kirje väljad:
 
