@@ -1,6 +1,6 @@
 # Meditatsioon: märkamine ja aktsepteerimine on eri oskused
 
-Kontrollitud: 2026-09-13. Tüüp: randomiseeritud komponendiuuring; allolev lühiharjutus on illustratsioon.
+Kontrollitud: 2026-10-07. Tüüp: randomiseeritud komponendiuuring; allolev lühiharjutus on illustratsioon.
 
 ## Mida võrreldi?
 
@@ -24,9 +24,16 @@ Illustratiivne lühikatse: istu soovi korral umbes kaks minutit tavapäraselt hi
 
 Ariely jt 30.03.2026 [kaks katset](../emotsioonid/emotsiooni-nimetamine-ja-umbermotestamine.md) näitasid, et emotsiooni sõnaline nimetamine enne ümbermõtestamist vähendas selle vahetut kasu. Aktsepteerimist ei testitud. See piirab siinse illustratsiooni tõlgendust: nimetamine ei ole universaalselt vajalik rahunemissamm ega sama protsess mis avatud märkamine. [04.10.2026 intake](../../intakes/2026-10-04.md).
 
+## 2026 täiendus: 18 päeva ja täidesaatev tähelepanu
+
+Huang jt uurisid 72 meditatsioonikogemuseta tervet 18–35-aastast mandariini keelt kõnelevat täiskasvanut. Meditatsioonirühm (n = 30) kuulas 18 päeva jooksul iga päev 15-minutilist Anapanasati hingamisharjutust; kontrollrühmas oli 42 inimest. Attention Network Testis vähenes meditatsioonirühma üldine reaktsiooniaeg ja konfliktikulu. Täpsus ning erksuse ja tähelepanu suunamise näitajad ei paranenud. ERP-muutused on võimalik mehhanismimärk, mitte tõend igapäevase kasu kohta. [3]
+
+**Staatus: esialgne kontrollitud tulemus.** Rühmad olid ebavõrdsed, kontroll oli passiivne, eelregistreeringut ei kinnitatud, järelmõõtmist polnud ja ülekanne jäi ühe laboriülesande piiresse. Uuritud annus oli 15 minutit päevas 18 päeva; see ei tõesta, et lühem harjutus toimib samamoodi ega et muutus püsib. Ebamugavuse suurenedes tasub lõpetada.
+
 ## Allikad
 
 1. Lindsay, E. K., Young, S., Smyth, J. M., Brown, K. W. ja Creswell, J. D. *Acceptance lowers stress reactivity: Dismantling mindfulness training in a randomized controlled trial*. Psychoneuroendocrinology 87:63–73. [DOI](https://doi.org/10.1016/j.psyneuen.2017.09.015), [PubMed](https://pubmed.ncbi.nlm.nih.gov/29040891/), [autori täistekst](https://www.researchgate.net/publication/320365584_Acceptance_lowers_stress_reactivity_Dismantling_mindfulness_training_in_a_randomized_controlled_trial).
 2. Lindsay, E. K. jt. *Mindfulness training reduces loneliness and increases social contact in a randomized controlled trial*. PNAS 116(9):3488–3493, veebis 11.02.2019. [DOI](https://doi.org/10.1073/pnas.1813588116), [artikli PDF](https://selfdeterminationtheory.org/wp-content/uploads/2019/07/2019_LindsayWarrenBrown_PNAS.pdf).
+3. Huang, Y., Guo, J.-H., Zheng, S. ja Chun, J. *Enhancing attention network and neural efficiency through brief mindfulness meditation*. npj Science of Learning, 23.09.2026. [Täistekst](https://doi.org/10.1038/s41539-026-00455-1).
 
-Seotud: [13.09.2026 süntees](../../intakes/2026-09-13.md).
+Seotud: [13.09.2026 süntees](../../intakes/2026-09-13.md), [07.10.2026 intake](../../intakes/2026-10-07.md).
