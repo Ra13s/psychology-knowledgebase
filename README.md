@@ -35,6 +35,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-09-30 — kompressiivne õppimine, automaatne väärtusõpe, kollektiivne intelligentsus, metakognitsioon ja VR-lucid treening](intakes/2026-09-30.md). Ainult 2026+ uus materjal; viis valitud leidu üheksast hinnatud suunast.
 
 - [2026-10-04 — emotsiooni nimetamine, huumor enne õppimist ja arutelu audit](intakes/2026-10-04.md). Kolm 2026+ panust seitsmest hinnatud suunast; eristatud 2025 eeltrükkide taust.
+- [2026-10-07 — mikropraktika harjumusplaan, 18-päevane meditatsioon, huumori sujuvus ja koormuse hilisem mõju](intakes/2026-10-07.md). Neli 2026+ leidu kümnest hinnatud suunast; 2025 eeltrükid ja repo-duplikaat jäid välja.
 
 ## Teemakirjed
 
@@ -62,3 +63,6 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Emotsiooni nimetamine ja ümbermõtestamine](topics/emotsioonid/emotsiooni-nimetamine-ja-umbermotestamine.md).
 - [Väärarusaamade parandamine ja huumor enne õppimist](topics/oppimine/vaararusaamade-parandamine-ja-huumor.md).
 - [Kollektiivne Fermi-hindamine ja arutelu audit](topics/sotsiaalne-oppimine/kollektiivne-fermi-ja-arutelu-audit.md).
+- [Vihjeplaan ja mikropraktika](topics/harjumused/vihjeplaan-ja-mikropraktika.md).
+- [Huumori töötlemissujuvus ja sidusustunne](topics/huumor/tootlemissujuvus-ja-sidusus.md).
+- [Kognitiivne koormus ja hilisem emotsionaalne töötlus](topics/emotsioonid/kognitiivne-koormus-ja-hilisem-tootlus.md).
