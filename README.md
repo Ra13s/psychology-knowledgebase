@@ -36,7 +36,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 
 - [2026-10-04 — emotsiooni nimetamine, huumor enne õppimist ja arutelu audit](intakes/2026-10-04.md). Kolm 2026+ panust seitsmest hinnatud suunast; eristatud 2025 eeltrükkide taust.
 - [2026-10-07 — mikropraktika harjumusplaan, 18-päevane meditatsioon, huumori sujuvus ja koormuse hilisem mõju](intakes/2026-10-07.md). Neli 2026+ leidu kümnest hinnatud suunast; 2025 eeltrükid ja repo-duplikaat jäid välja.
-- [2026-10-14 — lühivideod ja mälu, defikseeriv loovus, unenäopäevik, tehisagendid ja heaolusekkumised](intakes/2026-10-14.md). Viis 2026+ leidu seitsmest sisuliselt avatud uuest suunast; tõlgenduslik duplikaat ja nõrk piloot jäid välja.
+- [2026-10-14 — lühivideod ja mälu, defikseeriv loovus, unenäopäevik, tehisagendid ja heaolusekkumised](intakes/2026-10-14.md). Viis 2026+ leidu seitsmest sisuliselt avatud uuest suunast; tõlgenduslik duplikaat ja nõrk piloot jäid välja.\n- [2026-10-21 — struktureeritud GenAI-treening, digihäiringu nulltulemus ning unenarratiivide võrgustruktuur](intakes/2026-10-21.md). Kolm 2026+ leidu seitsmest sisuliselt avatud suunast; 2025 eeltrükid, registriduplikaat ja täistekstita kandidaat jäid välja.
 
 ## Teemakirjed
 
@@ -69,6 +69,6 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Kognitiivne koormus ja hilisem emotsionaalne töötlus](topics/emotsioonid/kognitiivne-koormus-ja-hilisem-tootlus.md).
 - [Lühivideod, fragmentatsioon ja mälu](topics/oppimine/luhivideod-ja-fragmentatsioon.md).
 - [Fikseerumisest vabastamine loovuses](topics/loovus/fikseerumisest-vabastamine.md).
-- [Unenägude semantika ja päevik](topics/uni/unenagude-semantika-ja-paevik.md).
+- [Unenägude semantika, struktuur ja päevik](topics/uni/unenagude-semantika-ja-paevik.md).
 - [Inimene ja tehisagent sotsiaalses suhtluses](topics/sotsiaalne-kognitsioon/inimene-ja-tehisagent.md).
-- [Heaolusekkumiste võrdlus](topics/heaolu/sekkumiste-vordlus.md).
+- [Heaolusekkumiste võrdlus](topics/heaolu/sekkumiste-vordlus.md).\n- [Struktureeritud GenAI-treening õppimisel](topics/oppimine/struktureeritud-genai-treening.md).\n- [Digihäiringu nulltulemus täidesaatvates ülesannetes](topics/tahelepanu/digihairingu-nulltulemus.md).
