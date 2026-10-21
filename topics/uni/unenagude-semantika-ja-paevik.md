@@ -10,7 +10,7 @@ Kolm keelemudelit hindasid tekste 16 ette määratud mõõtmel. Unenäokirjeldus
 
 ## 2026 täiendus: jutustuse võrgustruktuur
 
-Coppola jt eelregistreeritud uuringus analüüsiti 176 inimeselt 1434 unenäo- ja 1619 mõtterändamise kirjeldust sõnakordustel põhinevate graafidena. Unenäoraportid olid tihedamalt ühendatud, korduvamad ning rohkem lokaalsete klastrite ja globaalse integratsiooniga; mõtterändamise raportid olid pikemad, leksikaalselt mitmekesisemad ja selgemate üleminekupunktidega. Sama inimese raportid olid omavahel struktuurilt sarnasemad kui eri inimeste omad. [2]
+Coppola jt eelregistreeritud uuringus analüüsiti 176 inimeselt 1619 unenäo- ja 1434 mõtterändamise kirjeldust sõnakordustel põhinevate graafidena. Unenäoraportid olid tihedamalt ühendatud, korduvamad ning rohkem lokaalsete klastrite ja globaalse integratsiooniga; mõtterändamise raportid olid pikemad, leksikaalselt mitmekesisemad ja selgemate üleminekupunktidega. Sama inimese raportid olid omavahel struktuurilt sarnasemad kui eri inimeste omad. [2]
 
 Väiksem leksikaalne mitmekesisus seostus unenäoraportites depressiooni- ja mõtterändamises ärevussümptomitega. **See on korrelatsioon, mitte diagnostiline marker.** Unenäod meenutati pikema viitega kui mõtterändamine ning tulemust võivad mõjutada mälu, jutukus, kirjutamisstiil ja kogemuse kirjeldamise viis.
 
