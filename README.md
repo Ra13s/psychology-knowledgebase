@@ -38,6 +38,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-10-07 — mikropraktika harjumusplaan, 18-päevane meditatsioon, huumori sujuvus ja koormuse hilisem mõju](intakes/2026-10-07.md). Neli 2026+ leidu kümnest hinnatud suunast; 2025 eeltrükid ja repo-duplikaat jäid välja.
 - [2026-10-14 — lühivideod ja mälu, defikseeriv loovus, unenäopäevik, tehisagendid ja heaolusekkumised](intakes/2026-10-14.md). Viis 2026+ leidu seitsmest sisuliselt avatud uuest suunast; tõlgenduslik duplikaat ja nõrk piloot jäid välja.
 - [2026-10-21 — struktureeritud GenAI-treening, digihäiringu nulltulemus ning unenarratiivide võrgustruktuur](intakes/2026-10-21.md). Kolm 2026+ leidu seitsmest sisuliselt avatud suunast; 2025 eeltrükid, registriduplikaat ja täistekstita kandidaat jäid välja.
+- [2026-10-28 — ajaline varjamine spordis, automaatne imiteerimine üle kultuuride ning muusika Jungi traditsioonis](intakes/2026-10-28.md). Kolm 2026+ leidu seitsmest avatud suunast; empiiriline, nulltulemuse ja ajaloolis-tõlgenduslik tõend on eristatud.
 
 ## Teemakirjed
 
@@ -75,3 +76,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Heaolusekkumiste võrdlus](topics/heaolu/sekkumiste-vordlus.md).
 - [Struktureeritud GenAI-treening õppimisel](topics/oppimine/struktureeritud-genai-treening.md).
 - [Digihäiringu nulltulemus täidesaatvates ülesannetes](topics/tahelepanu/digihairingu-nulltulemus.md).
+- [Ajaline varjamine ja tegevuse ennetamine](topics/taju-ja-kehatunnetus/ajaline-varjamine-ja-ennetus.md).
+- [Automaatne imiteerimine üle kultuuride](topics/sotsiaalne-kognitsioon/automaatne-imitatsioon-ule-kultuuride.md).
+- [Muusika ja vastastikune osalus Jungi traditsioonis](topics/sugavuspsuhholoogia/muusika-ja-vastastikune-osalus.md).
+
