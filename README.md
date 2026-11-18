@@ -39,6 +39,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-10-14 — lühivideod ja mälu, defikseeriv loovus, unenäopäevik, tehisagendid ja heaolusekkumised](intakes/2026-10-14.md). Viis 2026+ leidu seitsmest sisuliselt avatud uuest suunast; tõlgenduslik duplikaat ja nõrk piloot jäid välja.
 - [2026-10-21 — struktureeritud GenAI-treening, digihäiringu nulltulemus ning unenarratiivide võrgustruktuur](intakes/2026-10-21.md). Kolm 2026+ leidu seitsmest sisuliselt avatud suunast; 2025 eeltrükid, registriduplikaat ja täistekstita kandidaat jäid välja.
 - [2026-10-28 — ajaline varjamine spordis, automaatne imiteerimine üle kultuuride ning muusika Jungi traditsioonis](intakes/2026-10-28.md). Kolm 2026+ leidu seitsmest avatud suunast; empiiriline, nulltulemuse ja ajaloolis-tõlgenduslik tõend on eristatud.
+- [2026-11-18 — huvi ja pingutuse kulu, veebiloengu tähelepanuvihje, hipokampuse suhtekaart ning jagatud huumor](intakes/2026-11-18.md). Neli 2026+ leidu kaheksast avatud suunast; üks varasem ligipääsutakistus lahendati täisteksti kontrolliga.
 
 ## Teemakirjed
 
@@ -79,4 +80,8 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Ajaline varjamine ja tegevuse ennetamine](topics/taju-ja-kehatunnetus/ajaline-varjamine-ja-ennetus.md).
 - [Automaatne imiteerimine üle kultuuride](topics/sotsiaalne-kognitsioon/automaatne-imitatsioon-ule-kultuuride.md).
 - [Muusika ja vastastikune osalus Jungi traditsioonis](topics/sugavuspsuhholoogia/muusika-ja-vastastikune-osalus.md).
+- [Huvi ja pingutuse kulu õppimisel](topics/motivatsioon/huvi-ja-pingutuse-kulu.md).
+- [Pingutusevihje veebiloengus](topics/oppimine/pingutuse-vihje-veebiloengus.md).
+- [Relatsioonistruktuur ja järeldamine](topics/malu/relatsioonistruktuur-ja-jareldamine.md).
+- [Jagatud huumorikogemus ja näoilmed](topics/huumor/jagatud-kogemus-ja-naoilmed.md).
 
