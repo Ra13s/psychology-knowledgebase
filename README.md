@@ -40,6 +40,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [2026-10-21 — struktureeritud GenAI-treening, digihäiringu nulltulemus ning unenarratiivide võrgustruktuur](intakes/2026-10-21.md). Kolm 2026+ leidu seitsmest sisuliselt avatud suunast; 2025 eeltrükid, registriduplikaat ja täistekstita kandidaat jäid välja.
 - [2026-10-28 — ajaline varjamine spordis, automaatne imiteerimine üle kultuuride ning muusika Jungi traditsioonis](intakes/2026-10-28.md). Kolm 2026+ leidu seitsmest avatud suunast; empiiriline, nulltulemuse ja ajaloolis-tõlgenduslik tõend on eristatud.
 - [2026-11-18 — huvi ja pingutuse kulu, veebiloengu tähelepanuvihje, hipokampuse suhtekaart ning jagatud huumor](intakes/2026-11-18.md). Neli 2026+ leidu kaheksast avatud suunast; üks varasem ligipääsutakistus lahendati täisteksti kontrolliga.
+- [2026-11-25 — ümbermõtestamise ajusignatuur, avatud platseebo ja loovus, paindlikkusmeelelaad ning kollektiivse mälu nihkuv lähtetase](intakes/2026-11-25.md). Neli 2026+ leidu seitsmest avatud suunast; kaks vana eeltrükiga ajakirjaversiooni jäid välja ja Jungi kandidaat ootele.
 
 ## Teemakirjed
 
@@ -84,4 +85,7 @@ Repo ei ole isiklik vaimse tervise päevik. Ära lisa vestlusajalugu, isiklikke 
 - [Pingutusevihje veebiloengus](topics/oppimine/pingutuse-vihje-veebiloengus.md).
 - [Relatsioonistruktuur ja järeldamine](topics/malu/relatsioonistruktuur-ja-jareldamine.md).
 - [Jagatud huumorikogemus ja näoilmed](topics/huumor/jagatud-kogemus-ja-naoilmed.md).
+- [Avatud platseebo ja loovustunne](topics/loovus/avatud-platseebo-ja-loovustunne.md).
+- [Paindlikkusmeelelaad ja emotsionaalsed ressursid](topics/emotsioonid/paindlikkusmeelelaad-ja-emotsionaalsed-ressursid.md).
+- [Nihkuv lähtetase ja kollektiivne mälu](topics/sotsiaalne-kognitsioon/nihkuv-lahtetase-ja-kollektiivne-malu.md).
 
